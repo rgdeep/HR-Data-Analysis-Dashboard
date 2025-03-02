@@ -66,7 +66,9 @@ Some Questions based on the HR Analytics Dashboard:
 
 ### **Final Outcomes from the HR Analytics Dashboard**  
 
-- <a href="https://github.com/rgdeep/HR-Data-Analysis-Dashboard/blob/main/HR%20Attrition%20Report.png"> Dashboard Screenshot</a>
+Dashboard Screenshot
+![HR Attrition Report](https://github.com/user-attachments/assets/6d0269bf-4d94-4278-8ba4-3b86962f5d3c)
+
 
 This **HR Analytics Dashboard** provides key insights into employee attrition, job satisfaction, and workforce demographics. Below are the final takeaways:  
 
