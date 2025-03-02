@@ -2,7 +2,7 @@
 HR analytics dashboard visualizing attrition, job satisfaction, and demographics.
 ##Dataset Used
 - <a href="https://github.com/rgdeep/HR-Data-Analysis-Dashboard/blob/main/HR%20Data.xlsx">Dataset</a>
-##Image
+
 - <a href="https://github.com/rgdeep/HR-Data-Analysis-Dashboard/blob/main/HR%20Attrition%20Report.png">Image Used</a>
 
 Some Questions based on the HR Analytics Dashboard:
