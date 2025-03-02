@@ -1,5 +1,7 @@
 # HR-Data-Analysis-Dashboard
 HR analytics dashboard visualizing attrition, job satisfaction, and demographics.
+##Dataset Used
+- <a href="https://github.com/rgdeep/HR-Data-Analysis-Dashboard/blob/main/HR%20Data.xlsx">Dataset</a>
 
 Some Questions based on the HR Analytics Dashboard:
 1. What is the total number of employees in the organization?
