@@ -5,6 +5,8 @@ HR analytics dashboard visualizing attrition, job satisfaction, and demographics
 
 - <a href="https://github.com/rgdeep/HR-Data-Analysis-Dashboard/blob/main/HR%20Attrition%20Report.png">Image Used</a>
 
+- <a href="https://github.com/rgdeep/HR-Data-Analysis-Dashboard/blob/main/HR%20Attrition%20Report%201.pbip"> Dashboard </a>
+
 Some Questions based on the HR Analytics Dashboard:
 1. What is the total number of employees in the organization?
 2. How many employees have left the organization (attrition count)?
